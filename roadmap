@@ -1,4 +1,4 @@
 1) Implement Lanchoz and Chebyshev for weather prediction. Repeat results. 17-18 Dec
 2) Play with eigensolvers from our course and will try to find good low-rank approximation.18-19 Dec
 3) Experiments with sound restoring, implementing fast matvec(as we have Toeplitz structure in the Kuu matrix.18-19 Dec
-4)Make a ipynb presentation. 10 am-12 30 am 20 December
+4) Make a ipynb presentation. 10 am-12 30 am 20 December

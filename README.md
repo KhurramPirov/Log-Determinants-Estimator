@@ -1,1 +1,2 @@
-# Log-Determinants-Estimator
+# Log Determinant Estimator
+# The main results are in demo folder 
